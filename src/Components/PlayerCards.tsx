@@ -34,13 +34,9 @@ function Team(props:proptyp) {
                 }).catch(()=>{
                     setteamdetail("Error")
                 })
-                
             }else{
                 setteamdetail("Invalid Path")
-
             }
-            
-                
         };
         fetchteamdata();
     }, [url])
@@ -48,7 +44,6 @@ function Team(props:proptyp) {
     return (
         <>{teamdetail&& <>
                 <Bannercomp teamName={teamname} />
-
             <div className={classes.container}>
                 {teamdetail.players.map((detail:detailtyp)=>{
                     return (

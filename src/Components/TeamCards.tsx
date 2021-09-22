@@ -40,7 +40,7 @@ function Cards() {
                 {
                     return (
                     <div className={`${classes.teamcard} ${colorclass[teamData[index].id]}`} key={index} onClick={()=>clickHandler(teamData[index].id)}>                      
-                        <img className={classes.logo} src={Logo[item]} />
+                        <img className={classes.logo} src={Logo[item]} alt="Team Logo" />
                         <div >
                             <h3 className={classes.teamname}>{teamData[index].teamName}</h3>
                             <h6 className={classes.venue}>{teamData[index].venue}</h6>

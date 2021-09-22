@@ -16,7 +16,7 @@ function Navbar() {
     const classes=useStyles();
     return (
         <nav className={classes.navbar}>
-            <img src={LOGO.default} className={classes.logo}></img>
+            <img src={LOGO.default} className={classes.logo} alt="IPL Logo"></img>
         </nav>
     )
 }

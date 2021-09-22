@@ -1,6 +1,6 @@
 import { createUseStyles } from "react-jss";
 interface color{
-    [key:string]:any
+    [key:string]:{background:string}
 }
 
 const data:color={

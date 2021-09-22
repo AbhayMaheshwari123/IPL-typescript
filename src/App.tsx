@@ -11,10 +11,9 @@ function App() {
   return (
     <Router>
         <Navbar />
-        <Lodr/>
         <ErrorBoundary>
         <div className="App">
-        <React.Suspense fallback={<h1>Loading...</h1>}>
+        <React.Suspense fallback={<Lodr/>}>
             <Switch>
               <Route exact path='/' component={Cards}  />
               <Route exact path='/team' component ={Cards} />

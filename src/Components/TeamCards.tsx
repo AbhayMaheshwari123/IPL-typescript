@@ -5,12 +5,16 @@ import { useHistory } from 'react-router-dom'
 import useStyles from '../Styling/TeamCardStyle';
 import TeamCardcolor from '../Styling/TeamCardcolor';
 
-function Cards() {
-    const [teamData,setteamData]=useState<[{id:string
+interface map{
+    id:string
     teamName:string
     venue:string
     winningYears:[]
-    }]>();
+}
+type finalmap=map[]
+
+function Cards() {
+    const [teamData,setteamData]=useState<finalmap>();
     const url='https://ipl-t20.herokuapp.com/teams';
     const history=useHistory();
     const classes=useStyles();
@@ -20,8 +24,6 @@ function Cards() {
         async function fetchdata(){
             await axios.get(url).then((response)=>{
                 setteamData(response.data);
-            }).catch(()=>{
-                setteamData([{id:"",teamName:"",venue:"",winningYears:[]}])
             })
             };
             fetchdata();

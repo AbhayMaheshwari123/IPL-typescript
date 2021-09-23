@@ -1,5 +1,5 @@
 import axios from 'axios'
-import {useEffect,useState} from 'react'
+import {Dispatch, SetStateAction, useEffect,useState} from 'react'
 import useStyles from '../Styling/PlayerCardsStyle'
 import Bannercomp from './Banner'
 import URL from '../Helper/URL'
@@ -9,20 +9,22 @@ match:{
     url:string
 }
 }
-
-interface detailtyp{
-    image:string 
-    name:string
-    stats:{
-        matches:number
-        runs:number 
-        wickets:number
-    }
+interface teamdata{
+    players:[
+        {
+        id:string;
+        image:string; 
+        name:string;
+        nationality:string;
+        stats:{[key:string]:number};
+        }
+    ]
+    team:{[key:string]:string}
 }
 
 function Team(props:proptyp) {
     const url=URL[props.match.url.slice(6)]
-    const [teamdetail,setteamdetail]=useState<any>();
+    const [teamdetail,setteamdetail]:[unknown, Dispatch<SetStateAction<unknown>>]=useState();
     const teamname=props.match.url.slice(6)
     const classes=useStyles();
     const colorclass=TeamCardcolor();
@@ -40,12 +42,12 @@ function Team(props:proptyp) {
         };
         fetchteamdata();
     }, [url])
-    
+    const data=teamdetail as teamdata
     return (
-        <>{teamdetail&& <>
+        <>{data&& <>
                 <Bannercomp teamName={teamname} />
             <div className={classes.container}>
-                {teamdetail.players.map((detail:detailtyp)=>{
+                {data.players.map((detail)=>{
                     return (
                     <div className={classes.playercard}> 
                         <div className={`${classes.bg} ${colorclass[teamname]}`}>

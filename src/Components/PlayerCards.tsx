@@ -81,5 +81,4 @@ function Team(props:proptyp) {
     )
 }
 
-
 export default Team

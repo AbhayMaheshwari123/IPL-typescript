@@ -8,8 +8,8 @@ const Banner = {
     huddle: require('../Assests/DC-huddle.jpg'),
   },
   'mumbai-indians': {
-    img: require('../Assests/MI.jpg'),
-    huddle: require('../Assests/MI-huddle.jpg'),
+    img: require('../Assests/MI.avif'),
+    huddle: require('../Assests/MI-huddle.avif'),
   },
   'rajasthan-royals': {
     img: require('../Assests/RR.jpg'),

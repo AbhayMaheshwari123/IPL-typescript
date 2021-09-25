@@ -1,9 +1,9 @@
 import axios from 'axios'
 import { Dispatch, SetStateAction, useEffect, useState } from 'react'
-import useStyles from '../Styling/PlayerCardsStyle'
-import Bannercomp from './Banner'
 import URL from '../Helper/URL'
+import useStyles from '../Styling/PlayerCardsStyle'
 import TeamCardcolor from '../Styling/TeamCardcolor'
+import Bannercomp from './Banner'
 interface Proptyp {
   match: {
     url: string

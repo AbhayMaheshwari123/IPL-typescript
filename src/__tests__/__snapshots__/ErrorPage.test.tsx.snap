@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error 1`] = `
+<div>
+  <h1
+    className="text-0-2-1"
+  >
+    Oops! Something Went Wrong
+  </h1>
+</div>
+`;

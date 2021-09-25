@@ -1,10 +1,10 @@
 import * as React from 'react'
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import './App.css'
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
-import Navbar from './Components/Navbar'
-import Error from './Components/ErrorPage'
 import ErrorBoundary from './Components/ErrorBoundary'
+import Error from './Components/ErrorPage'
 import Lodr from './Components/loader'
+import Navbar from './Components/Navbar'
 const Cards = React.lazy(() => import('./Components/TeamCards'))
 const Team = React.lazy(() => import('./Components/PlayerCards'))
 function App() {

@@ -1,9 +1,9 @@
 import axios from 'axios'
-import { useEffect, useState, useCallback } from 'react'
-import Logo from '../Helper/Logo'
+import { useCallback, useEffect, useState } from 'react'
 import { useHistory } from 'react-router-dom'
-import useStyles from '../Styling/TeamCardStyle'
+import Logo from '../Helper/Logo'
 import TeamCardcolor from '../Styling/TeamCardcolor'
+import useStyles from '../Styling/TeamCardStyle'
 
 interface Map {
   id: string
@@ -27,6 +27,9 @@ function Cards() {
       })
     }
     fetchdata()
+    return () => {
+      setteamData([])
+    }
   }, [url])
 
   const clickHandler = useCallback(
@@ -43,6 +46,7 @@ function Cards() {
           {Object.keys(Logo).map((item: string, index: number) => {
             return (
               <div
+                title="tc"
                 className={`${classes.teamcard} ${colorclass[teamData[index].id]}`}
                 key={index}
                 onClick={() => clickHandler(teamData[index].id)}

@@ -54,7 +54,9 @@
   "devDependencies": {
     "@types/event-emitter": "^0.3.3",
     "@types/react": "^17.0.24",
+    "@types/react-test-renderer": "^17.0.1",
     "prettier": "2.4.1",
+    "react-test-renderer": "^17.0.2",
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.3.0",
     "tslint-react": "^5.0.0"

@@ -1,5 +1,5 @@
-import eventemitter from '../Components/Event'
 import axios from 'axios'
+import eventemitter from '../Components/Event'
 
 axios.interceptors.request.use(
   (config) => {

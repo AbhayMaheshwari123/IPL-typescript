@@ -30,17 +30,12 @@ function Team(props: Proptyp) {
   const colorclass = TeamCardcolor()
   useEffect(() => {
     async function fetchteamdata() {
-      if (url) {
-        await axios
-          .get(url)
-          .then((res) => {
-            setteamdetail(res.data)
-          })
-          .catch(() => {
-            setteamdetail('Error')
-          })
-      } else {
-        setteamdetail('Invalid Path')
+      try {
+        const res = await axios.get(url)
+        setteamdetail(res.data)
+      }
+      catch {
+        setteamdetail(false)
       }
     }
     fetchteamdata()
@@ -54,7 +49,7 @@ function Team(props: Proptyp) {
           <div className={classes.container}>
             {data.players.map((detail, index) => {
               return (
-                <div className={classes.playercard} key={index}>
+                <div data-testid="cardteam" className={classes.playercard} key={index}>
                   <div className={`${classes.bg} ${colorclass[teamname]}`}>
                     <img className={classes.pic} src={detail.image} alt={detail.name} />
                   </div>

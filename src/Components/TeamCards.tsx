@@ -46,7 +46,7 @@ function Cards() {
           {Object.keys(Logo).map((item: string, index: number) => {
             return (
               <div
-                title="tc"
+                data-testid="cards"
                 className={`${classes.teamcard} ${colorclass[teamData[index].id]}`}
                 key={index}
                 onClick={() => clickHandler(teamData[index].id)}

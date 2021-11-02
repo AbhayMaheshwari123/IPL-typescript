@@ -1,3 +1,9453 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`CSK snapshot testing 1`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="MS Dhoni"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        MS Dhoni
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          416
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CSK snapshot testing 2`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Imran Tahir"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/898.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Imran Tahir
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          17
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          26
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CSK snapshot testing 3`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Lungi Ngidi"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3746.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Lungi Ngidi
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          76
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          3
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CSK snapshot testing 4`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Ruthuraj Gaikwad"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5443.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ruthuraj Gaikwad
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          33
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CSK snapshot testing 5`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Shane Watson"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/227.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shane Watson
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          398
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CSK snapshot testing 6`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Ambati Rayudu"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/100.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ambati Rayudu
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          17
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          282
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CSK snapshot testing 7`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Murali Vijay"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/7.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Murali Vijay
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          9
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          18
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CSK snapshot testing 8`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Kedar Jadhav"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/297.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Kedar Jadhav
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          162
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CSK snapshot testing 9`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Ravindra Jadeja"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/9.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ravindra Jadeja
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          106
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CSK snapshot testing 10`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Deepak Chahar"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/140.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Deepak Chahar
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          7
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          34
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CSK snapshot testing 11`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Narayan Jagadeesan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4942.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Narayan Jagadeesan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 1`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Shreyas Iyer"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1563.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shreyas Iyer
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          463
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 2`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Kagiso Rabada"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1664.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Kagiso Rabada
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          12
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          25
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 3`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Ishant Sharma"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/38.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ishant Sharma
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          13
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          13
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 4`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Shikar Dhawan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/41.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shikar Dhawan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          521
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 5`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Prithwi Shaw"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3764.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Prithwi Shaw
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          353
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 6`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Axar Patel"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1113.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Axar Patel
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          110
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 7`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Rishabh Pant"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2972.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Rishabh Pant
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          488
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 8`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Amit Mishra"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/30.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Amit Mishra
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          11
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          21
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          11
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 9`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="KL Rahul"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1125.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        KL Rahul
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          593
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 10`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Harpreet Brar"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5441.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Harpreet Brar
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          2
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          20
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 11`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Mandeep Singh"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/72.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Mandeep Singh
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          13
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          165
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 12`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Karun Nair"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/276.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Karun Nair
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 13`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Arshdeep Singh"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4698.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Arshdeep Singh
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          6
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 14`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Mujeeb Rahman"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4572.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Mujeeb Rahman
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          3
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 15`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Sarfaraz Khan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1564.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Sarfaraz Khan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          8
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          180
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 16`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Mohammad Shami"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/94.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Mohammad Shami
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          19
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`DC snapshot testing 17`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Ravichandran Ashwin"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ravichandran Ashwin
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          42
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 1`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="KL Rahul"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1125.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        KL Rahul
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          593
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 2`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Harpreet Brar"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5441.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Harpreet Brar
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          2
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          20
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 3`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Mandeep Singh"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/72.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Mandeep Singh
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          13
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          165
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 4`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Karun Nair"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/276.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Karun Nair
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 5`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Arshdeep Singh"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4698.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Arshdeep Singh
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          6
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 6`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Mujeeb Rahman"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4572.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Mujeeb Rahman
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          3
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 7`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Sarfaraz Khan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1564.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Sarfaraz Khan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          8
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          180
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 8`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Mohammad Shami"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/94.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Mohammad Shami
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          19
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 9`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Ravichandran Ashwin"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ravichandran Ashwin
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          42
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 10`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Dinesh Karthik"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/102.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Dinesh Karthik
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          253
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 11`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Andre Russell"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/177.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Andre Russell
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          510
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          11
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 12`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Harry Gurney"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1737.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Harry Gurney
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          8
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          7
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 13`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Kuldeep Yadav"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/261.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Kuldeep Yadav
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          9
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          12
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          4
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 14`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Shubman Gill"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3761.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shubman Gill
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          296
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 15`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Sunil Narine"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/203.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Sunil Narine
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          12
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          143
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 16`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Pat Cummins"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Pat Cummins
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          9
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          200
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          2
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 17`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Rinku Singh"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3830.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Rinku Singh
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          37
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 18`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Shivam Mavi"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3779.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shivam Mavi
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          120
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 19`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Rahul Tripati"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Rahul Tripati
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          13
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          66
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`KXIP snapshot testing 20`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Prasidh Krishna"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5105.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Prasidh Krishna
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          11
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          4
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team CSK snapshot testing 1`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="MS Dhoni"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        MS Dhoni
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          416
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team CSK snapshot testing 2`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Imran Tahir"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/898.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Imran Tahir
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          17
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          26
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team CSK snapshot testing 3`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Lungi Ngidi"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3746.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Lungi Ngidi
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          76
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          3
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team CSK snapshot testing 4`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Ruthuraj Gaikwad"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5443.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ruthuraj Gaikwad
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          33
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team CSK snapshot testing 5`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Shane Watson"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/227.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shane Watson
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          398
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team CSK snapshot testing 6`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Ambati Rayudu"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/100.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ambati Rayudu
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          17
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          282
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team CSK snapshot testing 7`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Murali Vijay"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/7.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Murali Vijay
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          9
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          18
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team CSK snapshot testing 8`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Kedar Jadhav"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/297.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Kedar Jadhav
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          162
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team CSK snapshot testing 9`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Ravindra Jadeja"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/9.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ravindra Jadeja
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          106
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team CSK snapshot testing 10`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Deepak Chahar"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/140.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Deepak Chahar
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          7
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          34
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team CSK snapshot testing 11`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Narayan Jagadeesan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4942.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Narayan Jagadeesan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team DC snapshot testing 1`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Shreyas Iyer"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1563.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shreyas Iyer
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          463
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team DC snapshot testing 2`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Kagiso Rabada"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1664.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Kagiso Rabada
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          12
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          25
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team DC snapshot testing 3`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Ishant Sharma"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/38.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ishant Sharma
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          13
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          13
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team DC snapshot testing 4`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Shikar Dhawan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/41.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shikar Dhawan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          521
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team DC snapshot testing 5`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Prithwi Shaw"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3764.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Prithwi Shaw
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          353
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team DC snapshot testing 6`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Axar Patel"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1113.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Axar Patel
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          110
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team DC snapshot testing 7`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Rishabh Pant"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2972.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Rishabh Pant
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          488
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team DC snapshot testing 8`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 delhi-capitals-0-2-20"
+  >
+    <img
+      alt="Amit Mishra"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/30.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Amit Mishra
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          11
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          21
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          11
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KKR snapshot testing 1`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Dinesh Karthik"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/102.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Dinesh Karthik
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          253
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KKR snapshot testing 2`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Andre Russell"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/177.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Andre Russell
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          510
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          11
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KKR snapshot testing 3`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Harry Gurney"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1737.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Harry Gurney
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          8
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          7
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KKR snapshot testing 4`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Kuldeep Yadav"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/261.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Kuldeep Yadav
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          9
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          12
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          4
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KKR snapshot testing 5`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Shubman Gill"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3761.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shubman Gill
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          296
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KKR snapshot testing 6`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Sunil Narine"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/203.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Sunil Narine
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          12
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          143
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KKR snapshot testing 7`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Pat Cummins"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Pat Cummins
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          9
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          200
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          2
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KKR snapshot testing 8`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Rinku Singh"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3830.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Rinku Singh
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          37
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KKR snapshot testing 9`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Shivam Mavi"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3779.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shivam Mavi
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          120
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KKR snapshot testing 10`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Rahul Tripati"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Rahul Tripati
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          13
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          66
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KKR snapshot testing 11`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kolkata-knight-riders-0-2-26"
+  >
+    <img
+      alt="Prasidh Krishna"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5105.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Prasidh Krishna
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          11
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          4
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KXIP snapshot testing 1`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="KL Rahul"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1125.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        KL Rahul
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          593
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KXIP snapshot testing 2`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Harpreet Brar"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5441.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Harpreet Brar
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          2
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          20
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KXIP snapshot testing 3`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Mandeep Singh"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/72.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Mandeep Singh
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          13
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          165
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KXIP snapshot testing 4`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Karun Nair"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/276.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Karun Nair
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KXIP snapshot testing 5`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Arshdeep Singh"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4698.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Arshdeep Singh
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          6
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KXIP snapshot testing 6`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Mujeeb Rahman"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4572.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Mujeeb Rahman
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          3
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KXIP snapshot testing 7`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Sarfaraz Khan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1564.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Sarfaraz Khan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          8
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          180
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KXIP snapshot testing 8`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Mohammad Shami"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/94.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Mohammad Shami
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          19
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team KXIP snapshot testing 9`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 kings-xi-punjab-0-2-23"
+  >
+    <img
+      alt="Ravichandran Ashwin"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ravichandran Ashwin
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          42
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team MI snapshot testing 1`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 mumbai-indians-0-2-21"
+  >
+    <img
+      alt="Rohit Sharma"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/107.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Rohit Sharma
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          405
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team MI snapshot testing 2`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 mumbai-indians-0-2-21"
+  >
+    <img
+      alt="Adithya Tare"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/99.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Adithya Tare
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team MI snapshot testing 3`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 mumbai-indians-0-2-21"
+  >
+    <img
+      alt="Anmolpreet Singh"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2965.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Anmolpreet Singh
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team MI snapshot testing 4`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 mumbai-indians-0-2-21"
+  >
+    <img
+      alt="Anukul Roy"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3774.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Anukul Roy
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team MI snapshot testing 5`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 mumbai-indians-0-2-21"
+  >
+    <img
+      alt="Hardik Pandya"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2740.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Hardik Pandya
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          402
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team MI snapshot testing 6`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 mumbai-indians-0-2-21"
+  >
+    <img
+      alt="Ishan Kishan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2975.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ishan Kishan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          7
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          101
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team MI snapshot testing 7`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 mumbai-indians-0-2-21"
+  >
+    <img
+      alt="Jaspreet Bumrah"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1124.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Jaspreet Bumrah
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          19
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team MI snapshot testing 8`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 mumbai-indians-0-2-21"
+  >
+    <img
+      alt="Jayant Yadhav"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1740.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Jayant Yadhav
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          2
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team MI snapshot testing 9`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 mumbai-indians-0-2-21"
+  >
+    <img
+      alt="Kieron Pollard"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/210.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Kieron Pollard
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          279
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team MI snapshot testing 10`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 mumbai-indians-0-2-21"
+  >
+    <img
+      alt="Mitchell McClenaghan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/730.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Mitchell McClenaghan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          11
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          3
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RCB snapshot testing 1`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 royal-challengers-bangalore-0-2-24"
+  >
+    <img
+      alt="Virat Kohli"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/164.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Virat Kohli
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          464
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RCB snapshot testing 2`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 royal-challengers-bangalore-0-2-24"
+  >
+    <img
+      alt="Mohammed Siraj"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3840.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Mohammed Siraj
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          9
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          4
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          7
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RCB snapshot testing 3`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 royal-challengers-bangalore-0-2-24"
+  >
+    <img
+      alt="Marcus Stionis"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Marcus Stionis
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          211
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          2
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RCB snapshot testing 4`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 royal-challengers-bangalore-0-2-24"
+  >
+    <img
+      alt="Moeen Ali"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1735.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Moeen Ali
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          11
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          220
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          6
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RCB snapshot testing 5`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 royal-challengers-bangalore-0-2-24"
+  >
+    <img
+      alt="Akshaydeep Nath"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3177.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Akshaydeep Nath
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          8
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          61
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RCB snapshot testing 6`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 royal-challengers-bangalore-0-2-24"
+  >
+    <img
+      alt="AB de Villiers"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/233.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        AB de Villiers
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          13
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          442
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RCB snapshot testing 7`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 royal-challengers-bangalore-0-2-24"
+  >
+    <img
+      alt="Shimron Hitmyer"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shimron Hitmyer
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          90
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RCB snapshot testing 8`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 royal-challengers-bangalore-0-2-24"
+  >
+    <img
+      alt="Parthiv Patel"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/44.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Parthiv Patel
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          4
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          373
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RCB snapshot testing 9`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 royal-challengers-bangalore-0-2-24"
+  >
+    <img
+      alt="Milind Kumar"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1742.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Milind Kumar
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RR snapshot testing 1`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 rajasthan-royals-0-2-22"
+  >
+    <img
+      alt="Ben Stokes"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1154.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ben Stokes
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          9
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          123
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          6
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RR snapshot testing 2`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 rajasthan-royals-0-2-22"
+  >
+    <img
+      alt="Sanju Samson"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/258.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Sanju Samson
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          12
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          342
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RR snapshot testing 3`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 rajasthan-royals-0-2-22"
+  >
+    <img
+      alt="Steve Smith"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/271.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Steve Smith
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          12
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          319
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RR snapshot testing 4`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 rajasthan-royals-0-2-22"
+  >
+    <img
+      alt="Shreyas Gopal"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1748.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shreyas Gopal
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          63
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          20
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RR snapshot testing 5`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 rajasthan-royals-0-2-22"
+  >
+    <img
+      alt="Ajinkya Rahane"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ajinkya Rahane
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          393
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RR snapshot testing 6`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 rajasthan-royals-0-2-22"
+  >
+    <img
+      alt="Mahipal Lomror"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2970.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Mahipal Lomror
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          2
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          8
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RR snapshot testing 7`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 rajasthan-royals-0-2-22"
+  >
+    <img
+      alt="Dhawal Kulkarni"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Dhawal Kulkarni
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          6
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team RR snapshot testing 8`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 rajasthan-royals-0-2-22"
+  >
+    <img
+      alt="Oshane Thomas"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5146.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Oshane Thomas
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          4
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team SRH snapshot testing 1`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 sunrisers-hyderabad-0-2-25"
+  >
+    <img
+      alt="Kane Willianson"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/440.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Kane Willianson
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          9
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          156
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team SRH snapshot testing 2`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 sunrisers-hyderabad-0-2-25"
+  >
+    <img
+      alt="Yusuf Pathan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/96.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Yusuf Pathan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          40
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team SRH snapshot testing 3`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 sunrisers-hyderabad-0-2-25"
+  >
+    <img
+      alt="Rashid Khan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2885.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Rashid Khan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          34
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          17
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team SRH snapshot testing 4`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 sunrisers-hyderabad-0-2-25"
+  >
+    <img
+      alt="Shakib Al Hasan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/201.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shakib Al Hasan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          3
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          9
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          2
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team SRH snapshot testing 5`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 sunrisers-hyderabad-0-2-25"
+  >
+    <img
+      alt="Martin Guptill"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/431.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Martin Guptill
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          3
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          81
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team SRH snapshot testing 6`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 sunrisers-hyderabad-0-2-25"
+  >
+    <img
+      alt="Wriddhiman Saha"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/16.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Wriddhiman Saha
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          5
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          86
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team SRH snapshot testing 7`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 sunrisers-hyderabad-0-2-25"
+  >
+    <img
+      alt="Khaleel Ahmed"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2694.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Khaleel Ahmed
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          9
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          19
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team SRH snapshot testing 8`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 sunrisers-hyderabad-0-2-25"
+  >
+    <img
+      alt="Bhuvneshwar Kumar"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/116.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Bhuvneshwar Kumar
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          12
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          13
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team SRH snapshot testing 9`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 sunrisers-hyderabad-0-2-25"
+  >
+    <img
+      alt="Manish Pandey"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/123.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Manish Pandey
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          12
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          344
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Team SRH snapshot testing 10`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 sunrisers-hyderabad-0-2-25"
+  >
+    <img
+      alt="David Warner"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/170.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        David Warner
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          12
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          692
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
 exports[`Teams 1`] = `null`;
+
+exports[`a 1`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="MS Dhoni"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        MS Dhoni
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          416
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`a 2`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Imran Tahir"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/898.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Imran Tahir
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          17
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          26
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`a 3`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Lungi Ngidi"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3746.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Lungi Ngidi
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          76
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          3
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`a 4`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Ruthuraj Gaikwad"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5443.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ruthuraj Gaikwad
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          33
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`a 5`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Shane Watson"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/227.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Shane Watson
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          398
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          10
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`a 6`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Ambati Rayudu"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/100.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ambati Rayudu
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          17
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          282
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`a 7`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Murali Vijay"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/7.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Murali Vijay
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          9
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          18
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`a 8`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Kedar Jadhav"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/297.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Kedar Jadhav
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          14
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          162
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          1
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`a 9`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Ravindra Jadeja"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/9.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Ravindra Jadeja
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          16
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          106
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          15
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`a 10`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Deepak Chahar"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/140.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Deepak Chahar
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          7
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          34
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`a 11`] = `
+<div
+  class="playercard-0-2-2"
+  data-testid="cardteam"
+>
+  <div
+    class="bg-0-2-10 chennai-super-kings-0-2-19"
+  >
+    <img
+      alt="Narayan Jagadeesan"
+      class="pic-0-2-5"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4942.png"
+    />
+  </div>
+  <div
+    class="detail-0-2-3"
+  >
+    <div>
+      <h5>
+        Narayan Jagadeesan
+      </h5>
+    </div>
+    <h6
+      class="iplyear-0-2-9"
+    >
+      IPL 2021
+    </h6>
+    <div
+      class="stats-0-2-4"
+    >
+      <div
+        class="match-0-2-7"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Matches
+        </h5>
+      </div>
+      <div
+        class="run-0-2-6"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Runs
+        </h5>
+      </div>
+      <div
+        class="wicket-0-2-8"
+      >
+        <h5>
+          0
+        </h5>
+        <h5>
+          Wickets
+        </h5>
+      </div>
+    </div>
+    <div>
+      <h4>
+        View Profile
+      </h4>
+    </div>
+  </div>
+</div>
+`;

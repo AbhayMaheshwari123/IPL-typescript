@@ -1,3 +1,549 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Cards 1`] = `null`;
+
+exports[`Cards Snapshot Testing 1`] = `
+<div
+  class="teamcard-0-2-2 chennai-super-kings-0-2-8"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Chennai Super Kings
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      M. A. Chidambaram Stadium
+    </h6>
+    <div>
+      <h4
+        class="win-0-2-7"
+      >
+        2010 
+        2011 
+        2018 
+      </h4>
+    </div>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Cards Snapshot Testing 2`] = `
+<div
+  class="teamcard-0-2-2 delhi-capitals-0-2-9"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Delhi Capitals
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      Feroz Shah Kotla Ground
+    </h6>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Cards Snapshot Testing 3`] = `
+<div
+  class="teamcard-0-2-2 kings-xi-punjab-0-2-12"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Kings XI Punjab
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      IS Bindra Stadium
+    </h6>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Cards Snapshot Testing 4`] = `
+<div
+  class="teamcard-0-2-2 kolkata-knight-riders-0-2-15"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Kolkata Knight Riders
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      Eden Gardens
+    </h6>
+    <div>
+      <h4
+        class="win-0-2-7"
+      >
+        2012 
+        2014 
+      </h4>
+    </div>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Cards Snapshot Testing 5`] = `
+<div
+  class="teamcard-0-2-2 mumbai-indians-0-2-10"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Mumbai Indians
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      Wankhede Stadium
+    </h6>
+    <div>
+      <h4
+        class="win-0-2-7"
+      >
+        2013 
+        2015 
+        2017 
+        2019 
+      </h4>
+    </div>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Cards Snapshot Testing 6`] = `
+<div
+  class="teamcard-0-2-2 rajasthan-royals-0-2-11"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Rajasthan Royals
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      Sawai Mansingh Stadium
+    </h6>
+    <div>
+      <h4
+        class="win-0-2-7"
+      >
+        2008 
+      </h4>
+    </div>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Cards Snapshot Testing 7`] = `
+<div
+  class="teamcard-0-2-2 royal-challengers-bangalore-0-2-13"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Royal Challengers Bangalore
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      M. Chinnaswamy Stadium
+    </h6>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Cards Snapshot Testing 8`] = `
+<div
+  class="teamcard-0-2-2 sunrisers-hyderabad-0-2-14"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Sunrisers Hyderabad
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      Rajiv Gandhi Intl. Cricket Stadium
+    </h6>
+    <div>
+      <h4
+        class="win-0-2-7"
+      >
+        2016 
+      </h4>
+    </div>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Teams name check 1`] = `
+<div
+  class="teamcard-0-2-2 chennai-super-kings-0-2-8"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Chennai Super Kings
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      M. A. Chidambaram Stadium
+    </h6>
+    <div>
+      <h4
+        class="win-0-2-7"
+      >
+        2010 
+        2011 
+        2018 
+      </h4>
+    </div>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Teams name check 2`] = `
+<div
+  class="teamcard-0-2-2 delhi-capitals-0-2-9"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Delhi Capitals
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      Feroz Shah Kotla Ground
+    </h6>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Teams name check 3`] = `
+<div
+  class="teamcard-0-2-2 kings-xi-punjab-0-2-12"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Kings XI Punjab
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      IS Bindra Stadium
+    </h6>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Teams name check 4`] = `
+<div
+  class="teamcard-0-2-2 kolkata-knight-riders-0-2-15"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Kolkata Knight Riders
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      Eden Gardens
+    </h6>
+    <div>
+      <h4
+        class="win-0-2-7"
+      >
+        2012 
+        2014 
+      </h4>
+    </div>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Teams name check 5`] = `
+<div
+  class="teamcard-0-2-2 mumbai-indians-0-2-10"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Mumbai Indians
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      Wankhede Stadium
+    </h6>
+    <div>
+      <h4
+        class="win-0-2-7"
+      >
+        2013 
+        2015 
+        2017 
+        2019 
+      </h4>
+    </div>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Teams name check 6`] = `
+<div
+  class="teamcard-0-2-2 rajasthan-royals-0-2-11"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Rajasthan Royals
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      Sawai Mansingh Stadium
+    </h6>
+    <div>
+      <h4
+        class="win-0-2-7"
+      >
+        2008 
+      </h4>
+    </div>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Teams name check 7`] = `
+<div
+  class="teamcard-0-2-2 royal-challengers-bangalore-0-2-13"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Royal Challengers Bangalore
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      M. Chinnaswamy Stadium
+    </h6>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
+
+exports[`Teams name check 8`] = `
+<div
+  class="teamcard-0-2-2 sunrisers-hyderabad-0-2-14"
+  data-testid="cards"
+>
+  <img
+    alt="Team Logo"
+    class="logo-0-2-5"
+  />
+  <div>
+    <h3
+      class="teamname-0-2-6"
+    >
+      Sunrisers Hyderabad
+    </h3>
+    <h6
+      class="venue-0-2-4"
+    >
+      Rajiv Gandhi Intl. Cricket Stadium
+    </h6>
+    <div>
+      <h4
+        class="win-0-2-7"
+      >
+        2016 
+      </h4>
+    </div>
+  </div>
+  <h5
+    class="home-0-2-3"
+  >
+    Team Home
+  </h5>
+</div>
+`;
